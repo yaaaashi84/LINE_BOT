@@ -8,6 +8,7 @@ authors = ["yaaashi84 <yaaaashi.84@gmail.com>"]
 python = "^3.10"
 Flask = "^2.1.2"
 line-bot-sdk = "^2.3.0"
+python-dotenv = "^0.20.0"
 
 [tool.poetry.dev-dependencies]
 
